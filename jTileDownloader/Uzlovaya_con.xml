@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="Type">BBoxLatLon</entry>
+<entry key="OutputLocation">/home/user/programs/jTileDownloader/tiles2(Uzlovaya)</entry>
+<entry key="TileServer">openstreetmap.fr</entry>
+<entry key="MaxLat">54.03641</entry>
+<entry key="OutputZoomLevel">10-20</entry>
+<entry key="MaxLon">38.43189</entry>
+<entry key="MinLat">53.91485</entry>
+<entry key="MinLon">38.03638</entry>
+</properties>
